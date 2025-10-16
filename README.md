@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvnzki" alt="pvnzki" /></a> </p>
 
-- 🔭 I’m currently working on [Ethical Research Clearance System](https://github.com/iransamarasekara/UoC-ERC-system)
+- 🔭 I’m currently working on [Ethical Research Clearance System](https://github.com/iransamarasekara/UoC-ERC-system) and on a Geotechnical Logging System for an Australian Company
 
 - 🌱 I’m currently learning **AI Driven Technologies**
 
